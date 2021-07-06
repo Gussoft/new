@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jPDFEditor.v2020R2.08">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jPDFEditor.v2020R2.08.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

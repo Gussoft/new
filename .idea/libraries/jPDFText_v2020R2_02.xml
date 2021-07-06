@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jPDFText.v2020R2.02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jPDFText.v2020R2.02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
